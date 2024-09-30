@@ -104,9 +104,6 @@ func main() {
 		log.Fatalf("Failed to create synthesizer: %v", err)
 	}
 
-	synthesizer.MaximumPolyphony = 500
-	synthesizer.EnableReverbAndChorus = false
-
 	// Set up MIDI input
 	midiIn, err := rtmidi.NewMIDIInDefault()
 	if err != nil {
