@@ -1,0 +1,10 @@
+github.com/ebitengine/oto/v3 v3.3.0 h1:34lJpJLqda0Iee9g9p8RWtVVwBcOOO2YSIS2x4yD1OQ=
+github.com/ebitengine/oto/v3 v3.3.0/go.mod h1:MZeb/lwoC4DCOdiTIxYezrURTw7EvK/yF863+tmBI+U=
+github.com/ebitengine/purego v0.8.0 h1:JbqvnEzRvPpxhCJzJJ2y0RbiZ8nyjccVUrSM3q+GvvE=
+github.com/ebitengine/purego v0.8.0/go.mod h1:iIjxzd6CiRiOG0UyXP+V1+jWqUXVjPKLAI0mRfJZTmQ=
+github.com/ezmidi/go-meltysynth v0.0.2 h1:a7WizIvA9YJy5XuJ2oXNxO6YzkiLh4gAuiEXJl7Wrkk=
+github.com/ezmidi/go-meltysynth v0.0.2/go.mod h1:mOkp1X0JoKR+tdL0H4Q89K5NaoJyyGIxD2m4IBP8AQ8=
+github.com/mattrtaylor/go-rtmidi v0.0.0-20220428034745-af795b1c1a79 h1:CA1UHN3RuY70DlC0RlvgtB1e8h3kYzmvK7s8CFe+Ohw=
+github.com/mattrtaylor/go-rtmidi v0.0.0-20220428034745-af795b1c1a79/go.mod h1:oBuZjmjlKSj9CZKrNhcx/adNhHiiE0hZknECjIP8Z0Q=
+golang.org/x/sys v0.25.0 h1:r+8e+loiHxRqhXVl6ML1nO3l1+oFoWbnlu2Ehimmi34=
+golang.org/x/sys v0.25.0/go.mod h1:/VUhepiaJMQUp4+oa/7Zr1D23ma6VTLIYjOOTFZPUcA=
